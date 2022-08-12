@@ -1,7 +1,8 @@
 소스코드 - >머신코드
 
 clang -o\ hello hello.c -lcs50  ( 매우복잡하고 어렵)  그래서 make hello 만 기억. 똑같이 만들어짐
-./hello
+
+./hello (컴파일된 파일 불러오기)
 
 변수의 종류가 뭔지 알려주는 걸 앞에 넣어야함. string(문자열) int(정수)
 
@@ -18,13 +19,13 @@ int 라고 했기때문에 다시 int 입력 할 필요 x
 counter = counter+1;
 counter += 1;
 counter++;
-이 3개는 같은 의미.
+이 3개는 같은 의미(구문설탕) 
 
 
 조건
 if (x<y)
 {
-	printg("x is less than y\n");
+	printf("x is less than y\n");
 }
 else
 {
@@ -47,7 +48,8 @@ else if (x == y)
 	printf("x is equal to y\n");
 }
 
-== 쓰는 이유는 =는 등호 표시 하나를 의미하는 할당 연산자이고 같다는 의미는 ==(일치연산자) 
+== 쓰는 이유는 =는 등호 표시 하나를 의미하는 할당 연산자이고 
+같다는 의미는 ==(일치연산자) 
 
 
 위에 있는 코드는 3개의 불리언 함수는 같지만 3번쨰 같다는 의미는 사용할 필요없슴.
