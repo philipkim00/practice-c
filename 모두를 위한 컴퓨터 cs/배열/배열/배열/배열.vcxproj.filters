@@ -18,5 +18,8 @@
     <ClCompile Include="컴파일링.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="디버깅.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

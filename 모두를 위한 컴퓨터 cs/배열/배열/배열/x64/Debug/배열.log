@@ -1,2 +1,13 @@
-﻿  컴파일링.c
-  배열.vcxproj -> C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\x64\Debug\배열.exe
+﻿  디버깅.c
+  컴파일링.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,9): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,9): error C2146: 구문 오류: ';'이(가) 'name' 식별자 앞에 없습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,14): error C2065: 'name': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,16): warning C4013: 'get_string'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,3): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,29): error C2065: 'name': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(85,3): warning C4138: '*/'가 주석 외부에 있습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(85,4): error C2059: 구문 오류: '/'
+  코드를 생성하고 있습니다...
