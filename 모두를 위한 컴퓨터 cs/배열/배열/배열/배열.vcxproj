@@ -128,7 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="디버깅.c" />
+    <ClCompile Include="명령행인자.c" />
+    <ClCompile Include="문자열과 배열.c" />
+    <ClCompile Include="문자열의 활용.c" />
+    <ClCompile Include="배열1.1.c" />
+    <ClCompile Include="배열1.2.c" />
+    <ClCompile Include="배열2.c" />
     <ClCompile Include="컴파일링.c" />
+    <ClCompile Include="코드의디자인.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

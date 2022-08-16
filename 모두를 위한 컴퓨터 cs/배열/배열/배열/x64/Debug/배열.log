@@ -1,13 +1,59 @@
-﻿  디버깅.c
-  컴파일링.c
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,9): error C2065: 'string': 선언되지 않은 식별자입니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,9): error C2146: 구문 오류: ';'이(가) 'name' 식별자 앞에 없습니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,14): error C2065: 'name': 선언되지 않은 식별자입니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(83,16): warning C4013: 'get_string'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,3): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,29): error C2065: 'name': 선언되지 않은 식별자입니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(84,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(85,3): warning C4138: '*/'가 주석 외부에 있습니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\컴파일링.c(85,4): error C2059: 구문 오류: '/'
+﻿  명령행인자.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\명령행인자.c(2,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'cs50.h': No such file or directory
+  문자열과 배열.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(5,9): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(5,9): error C2146: 구문 오류: ';'이(가) 'names' 식별자 앞에 없습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(5,14): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(5,16): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(6,7): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(6,9): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(7,7): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(7,9): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(8,7): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(8,9): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(9,7): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(9,9): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(11,22): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(11,24): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(11,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(11,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(11,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,30): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,32): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,43): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,45): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,56): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,58): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,69): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,71): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,82): error C2065: 'names': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,84): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 0개가 제공되었습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열과 배열.c(12,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%c'에 필요합니다.
+  문자열의 활용.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(22,9): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(22,9): error C2146: 구문 오류: ';'이(가) 's' 식별자 앞에 없습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(22,11): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(22,13): warning C4013: 'get_strintf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,20): error C2065: 'n': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,30): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,30): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,29): warning C4024: 'strlen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,38): error C2065: 'n': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,35): warning C4552: '<': 식의 결과가 사용되지 않습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,38): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,41): error C2065: 'i': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(24,43): error C2059: 구문 오류: ')'
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(25,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(35,25): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(35,27): error C2065: 'i': 선언되지 않은 식별자입니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(35,27): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\문자열의 활용.c(35,16): error C2198: 'toupper': 호출에 인수가 너무 적습니다.
+  배열2.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\배열2.c(9,10): warning C4013: 'get_int'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\배열2.c(11,13): error C2057: 상수 식이 필요합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\배열2.c(11,14): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\배열\배열\배열\배열2.c(11,6): error C2133: 'scores': 알 수 없는 크기입니다.
   코드를 생성하고 있습니다...

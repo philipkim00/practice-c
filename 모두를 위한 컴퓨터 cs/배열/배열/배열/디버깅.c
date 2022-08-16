@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 
 /*
 버그를 경험했을거다.
@@ -33,7 +33,7 @@ debug50은 나의 직감으로 되어야한다.
 */
 
 
-int main(void)
+/*int main_디버깅(void)
 {
 	printf("hello, world\n");
-}
+} */

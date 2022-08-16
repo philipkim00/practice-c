@@ -1,4 +1,4 @@
-#include <stdio.h>  
+//#include <stdio.h>  
 
 /*
 stdio.h는 여러 함수들이 정의되어 있는 라이브러리이다. 
@@ -6,10 +6,10 @@ stdio.h는 헤더 파일로 C언어로 작성되어 있으며 파일명이.h로 끝나는 파일
 */
 
 
-int main_컴파일러(void) //main 함수 프로그램의 시작점.
+/*int main_컴파일러(void) //main 함수 프로그램의 시작점.
 {
 	printf("hello, world\n"); //printf 화면의 글씨 출력해주는 함수. 최소 하나의 인자를 받는다. 보통 큰 따움표를 둘러싸인 문자열을 받음.  //\n은 새줄을 의미
-}
+}*/
 
 //clang -o hello hello.c  hello.c를 hello라는 파일명으로 지정해서 컴파일링해라. 
 
@@ -78,7 +78,7 @@ linking(링킹)
 // 과거에는 0과1로 시작해서 -> 어셈블리어(이것도 존나 빡세보임) -> c,c++,파이썬,루비 같은 언어들이 등장함.
 
 
-int main(void)
+/*int main_compli(void)
 {
 	string name = get_string("What's your name?\n")  // string : 데이터 종류, 이름을 저장한 변수의 종류   // get_string 그 파일안에서 선언된 것. , //name 이름을 저장했던 변수
 		printf("hellom %s\n", name); // %s는 형식 지정자 

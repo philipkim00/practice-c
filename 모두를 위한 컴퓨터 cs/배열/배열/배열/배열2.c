@@ -4,7 +4,7 @@
 
 float average(int lenght, int array[]); 
 
-int main(void)
+int main_array2(void)
 {    // 사용자로부터 점수의 갯수 입력
 	int n = get_int("Number of scores: ");
 	// 점수 배열 선언 및 사용자로부터 값 입력
