@@ -18,5 +18,11 @@
     <ClCompile Include="검색 알고리즘.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘 표기법.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선형 검색.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
