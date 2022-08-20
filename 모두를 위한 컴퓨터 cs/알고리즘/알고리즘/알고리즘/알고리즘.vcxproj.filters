@@ -24,5 +24,14 @@
     <ClCompile Include="선형 검색.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="버블정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬 알고리즘의 실행시간.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
