@@ -1,2 +1,8 @@
-﻿  검색 알고리즘.c
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\알고리즘\알고리즘\알고리즘\검색 알고리즘.c(2,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'cs50.h': No such file or directory
+﻿  선형 검색.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\알고리즘\알고리즘\알고리즘\선형 검색.c(1,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'cs50.h': No such file or directory
+  알고리즘 표기법.c
+  재귀.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\알고리즘\알고리즘\알고리즘\재귀.c(11,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'cs50.h': No such file or directory
+  정렬 알고리즘의 실행시간.c
+  코드를 생성하고 있습니다...
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\알고리즘\알고리즘\알고리즘\알고리즘 표기법.c(6): warning C4716: 'main_ab': 값을 반환해야 합니다.

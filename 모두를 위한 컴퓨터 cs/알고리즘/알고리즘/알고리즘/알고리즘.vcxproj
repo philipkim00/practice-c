@@ -132,6 +132,7 @@
     <ClCompile Include="선택정렬.c" />
     <ClCompile Include="선형 검색.c" />
     <ClCompile Include="알고리즘 표기법.c" />
+    <ClCompile Include="재귀.c" />
     <ClCompile Include="정렬 알고리즘의 실행시간.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
