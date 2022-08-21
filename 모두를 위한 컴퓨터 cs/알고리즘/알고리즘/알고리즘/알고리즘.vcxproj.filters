@@ -36,5 +36,8 @@
     <ClCompile Include="재귀.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="병합 정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

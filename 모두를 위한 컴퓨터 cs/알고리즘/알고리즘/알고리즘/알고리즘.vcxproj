@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="검색 알고리즘.c" />
     <ClCompile Include="버블정렬.c" />
+    <ClCompile Include="병합 정렬.c" />
     <ClCompile Include="선택정렬.c" />
     <ClCompile Include="선형 검색.c" />
     <ClCompile Include="알고리즘 표기법.c" />
