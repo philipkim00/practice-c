@@ -1,2 +1,6 @@
-﻿  메모리주소.c
-  메모리.vcxproj -> C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\x64\Debug\메모리.exe
+﻿  문자열 비교.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 비교.c(43,15): warning C4013: 'get_string'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 비교.c(43,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 비교.c(44,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+문자열 비교.obj : error LNK2019: get_stringmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\x64\Debug\메모리.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

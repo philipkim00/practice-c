@@ -25,7 +25,7 @@ FF(»¡) 00(ÃÊ) 00(ÆÄ)
 
 #include <stdio.h>
 
-int main(void)
+int main_a(void)
 {
     int n = 50;
    // printf("%i\n", n);
