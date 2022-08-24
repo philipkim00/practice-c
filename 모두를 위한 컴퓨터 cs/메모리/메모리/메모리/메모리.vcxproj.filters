@@ -24,6 +24,9 @@
     <ClCompile Include="문자열 비교.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문자열 복사.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="문자열.c">

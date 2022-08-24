@@ -35,7 +35,7 @@ printf 에서 %s를 사용해서 출력을 요청하면
 
 #include <stdio.h>
 
-int main(void)
+int main_d(void)
 {
     // 사용자로부터 s와 t 두 개의 문자열 입력받아 저장
     //int s = get_int("i: ");

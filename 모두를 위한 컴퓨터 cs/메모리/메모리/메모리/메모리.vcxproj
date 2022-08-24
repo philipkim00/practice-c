@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="메모리주소.c" />
+    <ClCompile Include="문자열 복사.c" />
     <ClCompile Include="문자열 비교.c" />
     <ClCompile Include="포인터.c" />
   </ItemGroup>
