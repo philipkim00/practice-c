@@ -30,7 +30,7 @@ s와 t안에 모두 0x123(주소 예시)를 적었을 것. 코드상에서 t의 첫 글자를
 #include <stdio.h>
 #include <string.h>
 
-int main_f(void)
+int main_e(void)
 {
     char* s = get_string("s: ");
     char* t = malloc(strlen(s) + 1); //C에서는 malloc라는 메모리 할당 함수 있슴. 인자로 받는것은 할당받을 메모리 크기.
@@ -45,7 +45,7 @@ int main_f(void)
 
     printf("s: %s\n", s);
     printf("t: %s\n", t);
-
+}
     /*
     i < n + 1;
     +1하는 이유는 널 종단 문자까지 복사 하기 위해서.
