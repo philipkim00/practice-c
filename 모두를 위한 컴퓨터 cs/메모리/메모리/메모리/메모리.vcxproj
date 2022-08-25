@@ -132,6 +132,8 @@
     <ClCompile Include="메모리할당과 해제.c" />
     <ClCompile Include="문자열 복사.c" />
     <ClCompile Include="문자열 비교.c" />
+    <ClCompile Include="파일 읽기.c" />
+    <ClCompile Include="파일쓰기.c" />
     <ClCompile Include="포인터.c" />
   </ItemGroup>
   <ItemGroup>

@@ -1,4 +1,11 @@
-﻿  메모리할당과 해제.c
+﻿  메모리 교환, 스택, 힙.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리 교환, 스택, 힙.c(68,26): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리 교환, 스택, 힙.c(68,26): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리 교환, 스택, 힙.c(70,5): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리 교환, 스택, 힙.c(5): message : 'main'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리 교환, 스택, 힙.c(80,6): error C2084: 'void swap(int *,int *)' 함수에 이미 본문이 있습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리 교환, 스택, 힙.c(15): message : 'swap'의 이전 정의를 참조하십시오.
+  메모리할당과 해제.c
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리할당과 해제.c(7,15): warning C4013: 'get_string'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리할당과 해제.c(8,15): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리할당과 해제.c(17,5): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
@@ -7,12 +14,18 @@ C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\�
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리할당과 해제.c(10,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(89,14): error C2371: 'free': 재정의. 기본 형식이 다릅니다.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(101,15): error C2040: 'malloc': 'void *(size_t)'의 간접 참조 수준이 'int ()'과(와) 다릅니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리할당과 해제.c(55,5): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
-C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\메모리할당과 해제.c(5): message : 'main'의 이전 정의를 참조하십시오.
   문자열 복사.c
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 복사.c(35,15): warning C4013: 'get_string'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 복사.c(36,15): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 복사.c(35,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 복사.c(36,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
 C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\문자열 복사.c(42,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  파일 읽기.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\파일 읽기.c(10,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  파일쓰기.c
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\파일쓰기.c(27,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\파일쓰기.c(48,5): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\파일쓰기.c(23): message : 'main'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\파일쓰기.c(52,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\philipkim00\Desktop\모두를 위한 컴퓨터 cs\메모리\메모리\메모리\파일쓰기.c(61,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'cs50.h': No such file or directory
   코드를 생성하고 있습니다...
