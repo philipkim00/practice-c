@@ -128,11 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="배열의 크기 조정하기.c" />
+    <ClCompile Include="스택, 큐, 딕셔너리.c" />
     <ClCompile Include="연결 리스트 도입.c" />
     <ClCompile Include="연결 리스트 시연.c" />
     <ClCompile Include="연결 리스트 코딩.c" />
     <ClCompile Include="연결 리스트 트리.c" />
     <ClCompile Include="자료구조.c" />
+    <ClCompile Include="해시 테이블.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="트라이.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

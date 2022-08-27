@@ -33,5 +33,16 @@
     <ClCompile Include="연결 리스트 트리.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="해시 테이블.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택, 큐, 딕셔너리.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="트라이.c">
+      <Filter>리소스 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>

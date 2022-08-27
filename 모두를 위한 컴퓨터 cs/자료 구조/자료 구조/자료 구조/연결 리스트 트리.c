@@ -73,7 +73,7 @@ log n이기 때문에
 */
 
 //이진 검색 트리의 노드 구조체
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 
 typedef struct node
@@ -111,6 +111,7 @@ bool search(node *tree)
         return true;
     }
 }
+*/
 
 /*
 이진 검색 트리를 활용하였을 때 검색 실행 시간과 노드 삽입 시간은 모두 O(log n) 입니다
