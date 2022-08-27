@@ -24,5 +24,14 @@
     <ClCompile Include="연결 리스트 도입.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연결 리스트 코딩.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결 리스트 시연.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결 리스트 트리.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

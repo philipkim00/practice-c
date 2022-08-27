@@ -64,7 +64,7 @@ int main(void)
 */
 
 
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 
 int main_c(void)
@@ -116,7 +116,8 @@ int main_c(void)
 
     // list의 메모리 초기화
     free(list);
-}
+} 
+*/
 
 
 /*
