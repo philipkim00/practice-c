@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(18,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(18,6): warning C4309: '=': 상수 값이 잘립니다.
+  자료형.cpp
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\자료형.cpp(18,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\자료형.cpp(18,6): warning C4309: '=': 상수 값이 잘립니다.
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\philipkim00\Desktop\어소트락\C++\x64\Debug\Project1.exe
