@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="c,c++공부방법과 하는이유.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="산술 연산자.cpp" />
+    <ClCompile Include="실수형 자료형.cpp" />
     <ClCompile Include="자료형.cpp" />
     <ClCompile Include="정수형 자료형.cpp" />
     <ClCompile Include="프로젝트 생성 및 주석.cpp" />
