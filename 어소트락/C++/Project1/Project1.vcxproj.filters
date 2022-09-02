@@ -48,5 +48,8 @@
     <ClCompile Include="switch구문,삼항연산자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="define,비트연산자1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
