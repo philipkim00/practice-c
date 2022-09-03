@@ -9,14 +9,39 @@ C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(134,11
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(135,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(139,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
   main.cpp
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(28,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(28,6): warning C4309: '=': 상수 값이 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(101,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(175,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-  switch구문,삼항연산자.cpp
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(19,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(19,6): warning C4309: '=': 상수 값이 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(92,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(167,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(8,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(6): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(9,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(8): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(11,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(9): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(12,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(11): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(13,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(12): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(14,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(13): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(49,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(49,6): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(122,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(196,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(264,6): error C2374: 'iName': 재정의. 여러 번 초기화했습니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(250): message : 'iName' 선언을 참조하십시오.
   비트연산자(2).cpp
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(8,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(6): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(9,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(8): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(11,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(9): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(12,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(11): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(13,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(12): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(14,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(13): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(39,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(39,6): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(112,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(186,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
   코드를 생성하고 있습니다...
