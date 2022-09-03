@@ -51,5 +51,8 @@
     <ClCompile Include="define,비트연산자1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="비트연산자(2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

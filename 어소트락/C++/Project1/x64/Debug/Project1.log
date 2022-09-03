@@ -8,43 +8,15 @@ C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(134,2)
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(134,11): error C2059: 구문 오류: ')'
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(135,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(139,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(162,1): error C2019: 전처리기 지시문이 있어야 하는데 '#'이(가) 있습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(163,24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(163,8): error C2146: 구문 오류: ';'이(가) '피연산자가' 식별자 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(167,1): error C2019: 전처리기 지시문이 있어야 하는데 '#'이(가) 있습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(169,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(169,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(172,26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(172,11): error C2146: 구문 오류: ';'이(가) '가정하는것' 식별자 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(177,1): error C2059: 구문 오류: 'if'
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(178,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(178,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(182,1): error C2059: 구문 오류: 'if'
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(183,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(183,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(186,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(186,17): error C2146: 구문 오류: ';'이(가) '처음에' 식별자 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(192,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(192,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(195,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(195,5): error C2146: 구문 오류: ';'이(가) '구문을' 식별자 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(206,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(206,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(209,1): error C2059: 구문 오류: 'else'
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(210,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(210,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(213,1): error C2059: 구문 오류: 'else'
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(216,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(216,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\if,else 구문.cpp(219,1): error C2059: 구문 오류: 'else'
   main.cpp
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(19,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(19,6): warning C4309: '=': 상수 값이 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(92,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(130,6): error C2059: 구문 오류: ')'
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(131,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(134,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(134,11): error C2059: 구문 오류: ')'
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(135,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(139,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(28,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(28,6): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(101,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(175,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  switch구문,삼항연산자.cpp
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(19,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(19,6): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(92,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\switch구문,삼항연산자.cpp(167,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  비트연산자(2).cpp
   코드를 생성하고 있습니다...

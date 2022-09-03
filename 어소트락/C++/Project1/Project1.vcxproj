@@ -133,6 +133,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="switch구문,삼항연산자.cpp" />
     <ClCompile Include="논리 연산자.cpp" />
+    <ClCompile Include="비트연산자(2).cpp" />
     <ClCompile Include="산술 연산자.cpp" />
     <ClCompile Include="실수형 자료형.cpp" />
     <ClCompile Include="자료형.cpp" />
