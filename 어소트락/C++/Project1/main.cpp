@@ -30,7 +30,7 @@ int Add(int left, int right)
 }
 
 // 함수 
-int main()
+int main_aa()
 {
 	// 자료형 : 변수가 어떠한 형태를 나타내는지를 설명해주는 역할이 자료형에 역할.
 	// : (크기단위, byte) Date Type

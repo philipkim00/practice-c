@@ -25,23 +25,27 @@ C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(49,9): warning C
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(49,6): warning C4309: '=': 상수 값이 잘립니다.
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(122,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(196,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(264,6): error C2374: 'iName': 재정의. 여러 번 초기화했습니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(272,6): error C2374: 'iName': 재정의. 여러 번 초기화했습니다.
 C:\Users\philipkim00\Desktop\어소트락\C++\Project1\main.cpp(250): message : 'iName' 선언을 참조하십시오.
-  비트연산자(2).cpp
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(8,1): warning C4005: 'COLD': 매크로 재정의
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(6): message : 'COLD'의 이전 정의를 참조하십시오.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(9,1): warning C4005: 'COLD': 매크로 재정의
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(8): message : 'COLD'의 이전 정의를 참조하십시오.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(11,1): warning C4005: 'COLD': 매크로 재정의
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(9): message : 'COLD'의 이전 정의를 참조하십시오.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(12,1): warning C4005: 'COLD': 매크로 재정의
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(11): message : 'COLD'의 이전 정의를 참조하십시오.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(13,1): warning C4005: 'COLD': 매크로 재정의
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(12): message : 'COLD'의 이전 정의를 참조하십시오.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(14,1): warning C4005: 'COLD': 매크로 재정의
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(13): message : 'COLD'의 이전 정의를 참조하십시오.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(39,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(39,6): warning C4309: '=': 상수 값이 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(112,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
-C:\Users\philipkim00\Desktop\어소트락\C++\Project1\비트연산자(2).cpp(186,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  main2cpp.cpp
+  변수.cpp
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(8,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(6): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(9,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(8): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(11,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(9): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(12,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(11): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(13,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(12): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(14,1): warning C4005: 'COLD': 매크로 재정의
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(13): message : 'COLD'의 이전 정의를 참조하십시오.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(49,9): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(49,6): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(122,19): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(196,9): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(272,6): error C2374: 'iName': 재정의. 여러 번 초기화했습니다.
+C:\Users\philipkim00\Desktop\어소트락\C++\Project1\변수.cpp(250): message : 'iName' 선언을 참조하십시오.
+  함수1,반복문.cpp
   코드를 생성하고 있습니다...

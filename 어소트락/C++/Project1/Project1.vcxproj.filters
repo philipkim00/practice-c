@@ -57,5 +57,11 @@
     <ClCompile Include="변수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="함수1,반복문.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main2cpp.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
