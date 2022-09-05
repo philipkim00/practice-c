@@ -132,6 +132,7 @@
     <ClCompile Include="if,else 구문.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main2cpp.cpp" />
+    <ClCompile Include="printf,scanf.cpp" />
     <ClCompile Include="switch구문,삼항연산자.cpp" />
     <ClCompile Include="논리 연산자.cpp" />
     <ClCompile Include="단축키.cpp" />
