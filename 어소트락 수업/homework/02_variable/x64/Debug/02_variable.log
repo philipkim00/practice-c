@@ -1,0 +1,4 @@
+﻿  02_variable.cpp
+C:\Users\philipkim00\Desktop\어소트락 수업\02_variable\02_variable.cpp(25,17): warning C4101: 'm_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\philipkim00\Desktop\어소트락 수업\02_variable\02_variable.cpp(91,15): warning C4101: 'number3' :참조되지 않은 지역 변수입니다.
+  02_variable.vcxproj -> C:\Users\philipkim00\Desktop\어소트락 수업\homework\x64\Debug\02_variable.exe
